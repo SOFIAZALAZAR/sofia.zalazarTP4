@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1625612291 source:c:\users\sofia\desktop\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Menus.h"
+
+1565993298 c:\users\sofia\desktop\tp_3\linkedlist.h
+
+1625581955 c:\users\sofia\desktop\tp_3\controller.h
+
+1625774314 c:\users\sofia\desktop\tp_3\employee.h
+
+1625611568 c:\users\sofia\desktop\tp_3\menus.h
+
+1625611887 source:c:\users\sofia\desktop\tp_3\menus.c
+	<stdio.h>
+	<stdlib.h>
+	"Menus.h"
+
+1625774978 source:c:\users\sofia\desktop\tp_3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"controller.h"
+	"Menus.h"
+
+1625527797 c:\users\sofia\desktop\tp_3\parser.h
+
+1625774822 source:c:\users\sofia\desktop\tp_3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1625774719 source:c:\users\sofia\desktop\tp_3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
